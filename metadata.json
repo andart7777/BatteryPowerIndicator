@@ -1,0 +1,7 @@
+{
+    "uuid": "battery-power@custom",
+    "name": "Battery Power Indicator",
+    "description": "Displays battery power consumption in the top bar",
+    "shell-version": ["47"],
+    "version": 1
+}
